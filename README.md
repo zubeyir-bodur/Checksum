@@ -15,7 +15,7 @@ The machine has three modes of displaying. It either displays a word from the me
 ### Word Display
 This is the default display. When the machine is initialized, it will display the word at the 0th index. Current word that is displayed can be changed with right and left push buttons. The sevent segment display will show both the index and the value of the word. For instance, the word 0x07 at index 5 would be displayed as
 ````
-7-05
+5-07
 ````
 ### Checksum
 When compute button is pressed, after the computation is complete, the checksum will be displayed. If the checksum is computed as 0x88 for instance the following will be displayed for ten seconds, then default display will continue where it left off:
