@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../Checksum.srcs/sources_1/imports/sources_1/SevSeg_4digit.sv" \
+"../../../../Checksum.srcs/sources_1/imports/sources_1/main.sv" \
+"../../../../Checksum.srcs/sim_1/imports/sim_1/testbenches.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
