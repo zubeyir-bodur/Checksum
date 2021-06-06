@@ -52,7 +52,6 @@ c=10
 <img src="https://github.com/zubeyir-bodur/Checksum/blob/master/img/controller%20fsm.jpg" alt="Checksum FSM diagram" width="640" height="800">
 
 ### Main Module HLSM Diagram
-Click the photo to inspect in landscape, sorry for portrait diagram :)
 ![Main HLSM Diagram](https://github.com/zubeyir-bodur/Checksum/blob/master/img/view%20logic%20hlsm.jpg)
 
 ### Block Diagrams
